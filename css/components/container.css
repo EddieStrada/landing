@@ -1,0 +1,12 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h1 {
+  text-shadow: 0 0 5px rgb(25, 25, 25, 0.3);
+}
+
+.container p {
+  text-shadow: 0 0 5px rgb(25, 25, 25, 0.3);
+}
